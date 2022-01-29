@@ -1,0 +1,14 @@
+.app-top-bar {
+    
+    border-radius: 4px;
+    padding:1rem 1rem 1rem 1rem;
+    text-align: center;
+}
+
+.top-bar-input {
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+    border-style:hidden;
+    width:40%;
+    text-align: center;
+    
+}
